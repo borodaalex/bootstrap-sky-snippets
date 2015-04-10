@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1422280650691" />
+    <option name="importOrder" value="java;javax;org;com;funddna;" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../motif_master/motif/.settings/org.eclipse.jdt.core.prefs" />
+  </component>
   <component name="IdProvider" IDEtalkID="4679720D8921AC3B5D6BCC94AE25EECD" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,11 +22,10 @@
   <component name="SbtLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../../mustachePlay/play2-mustache" value="1396987976105" />
-        <entry key="$PROJECT_DIR$/../../socketioplay/socket.io.play/module" value="1394557233486" />
-        <entry key="$PROJECT_DIR$/../../socketioplay/socket.io.play/sample" value="1394557233486" />
+        <entry key="$USER_HOME$/mustachePlay/play2-mustache" value="1396987976105" />
+        <entry key="$USER_HOME$/socketioplay/socket.io.play/module" value="1394557233486" />
+        <entry key="$USER_HOME$/socketioplay/socket.io.play/sample" value="1394557233486" />
       </map>
     </option>
   </component>
 </project>
-
